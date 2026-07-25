@@ -1,3 +1,3 @@
-# Images
+# Diagrams
 
 Architecture diagrams and supporting images.
