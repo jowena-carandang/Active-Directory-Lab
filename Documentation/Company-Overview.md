@@ -1,82 +1,55 @@
-# Futurion Systems
+# 🏢 Company Overview
 
-## Company Overview
+## Futurion Systems
 
-Futurion Systems is a fictional enterprise IT services and cybersecurity consulting company created for educational and portfolio purposes.
+**Futurion Systems** is a fictional Perth-based startup created to simulate a real-world business environment for this portfolio.
 
-The company simulates a real-world business environment where enterprise infrastructure, cloud technologies, networking, automation, and cybersecurity solutions are designed, deployed, secured, and maintained.
+The company specializes in **managed IT services, cloud infrastructure, and cybersecurity** for small and medium-sized businesses. Founded in **2024**, Futurion Systems has grown to **35 employees** and is beginning to modernize its internal IT infrastructure to support future expansion.
 
-This lab is intended to demonstrate practical, hands-on experience using Microsoft technologies and industry best practices.
-
----
-
-# Company Information
-
-Company Name:
-Futurion Systems
-
-Industry:
-Enterprise IT Services
-Cloud Solutions
-Cybersecurity Consulting
-
-Head Office:
-Perth, Western Australia
-
-Employees:
-100
-
-Environment:
-Hybrid Enterprise Infrastructure
+This portfolio documents the company's technology journey, with each repository representing a realistic project completed as the organization's Systems Administrator. Rather than isolated lab exercises, every project contributes to the ongoing development of Futurion Systems' enterprise environment.
 
 ---
 
-# Business Objectives
+## Company Profile
 
-Futurion Systems requires a secure, scalable, and centrally managed Microsoft infrastructure that supports:
-
-• Active Directory
-
-• Identity Management
-
-• Group Policy
-
-• DNS
-
-• DHCP
-
-• File Services
-
-• Azure Integration
-
-• Microsoft Entra ID
-
-• Microsoft Sentinel
-
-• Vulnerability Management
-
-• Security Monitoring
-
-• PowerShell Automation
+| Item              | Details                                                   |
+| ----------------- | --------------------------------------------------------- |
+| **Company Name**  | Futurion Systems                                          |
+| **Industry**      | Managed IT Services, Cloud Infrastructure & Cybersecurity |
+| **Headquarters**  | Perth, Western Australia                                  |
+| **Founded**       | 2024                                                      |
+| **Employees**     | 35                                                        |
+| **Business Type** | Startup                                                   |
 
 ---
 
-# Current Infrastructure
+## Business Goals
 
-Project Status:
-Planning Phase
+* Centralize user authentication and identity management
+* Improve security through Microsoft technologies
+* Standardize device and user administration
+* Build a scalable infrastructure to support business growth
+* Prepare for cloud adoption using Microsoft Azure
+* Strengthen cybersecurity monitoring and incident response
 
-Domain:
-corp.futurion.local
+---
 
-NetBIOS:
-FUTURION
+## Technology Roadmap
 
-Primary Domain Controller:
-FS-DC01
+| Phase     | Project                                 |
+| --------- | --------------------------------------- |
+| ✅ Phase 1 | Active Directory Infrastructure         |
+| ⏳ Phase 2 | File Server & Shared Resources          |
+| ⏳ Phase 3 | Microsoft 365 & Microsoft Entra ID      |
+| ⏳ Phase 4 | Microsoft Azure                         |
+| ⏳ Phase 5 | Microsoft Sentinel (SOC)                |
+| ⏳ Phase 6 | Vulnerability Management                |
+| ⏳ Phase 7 | Incident Response & Security Operations |
 
-File Server:
-FS-FS01
+---
 
-Windows Client:
-FS-PC01
+## Portfolio Purpose
+
+This fictional company provides a consistent business scenario for demonstrating hands-on experience with enterprise Microsoft technologies, systems administration, cloud infrastructure, and cybersecurity.
+
+Every project in this GitHub portfolio is designed to reflect a realistic business requirement and follows industry best practices for planning, implementation, documentation, and security.
